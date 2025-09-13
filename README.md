@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome 👋
 
-<!--
-**mkoll02/mkoll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌐 This portfolio includes the websites I developed throughout my academic studies and internship.
 
-Here are some ideas to get you started:
+##[Ninety Degrees](https://ninetydegreesnafpliocom.wordpress.com/)
+####A website for a rental tourist apartment in Nafplio. Designed to be simple and user-friendly, it provides all the essential information in a clear and concise way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##[National Medicines Organization](https://eofreview.ditpages.hua.gr/))
+####This interface concerns the redesign and reconstruction of the National Organization for Medicines and was implemented as part of the conclusion of my thesis project.
+
+##[Food&Style](https://foodandstyle.value.marketing/))
+####This project was implemented as an enhanced version of the banquet hall’s website.
+
